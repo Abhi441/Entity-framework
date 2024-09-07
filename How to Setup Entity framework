@@ -1,0 +1,9 @@
+Step 1> Download the 4 Pakages 
+Microsoft.EntityFrameworkCore   version = 6.0.35
+"Microsoft.EntityFrameworkCore.Design" Version="6.0.32"
+"Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.32"
+"Microsoft.EntityFrameworkCore.Tools" Version="6.0.32"
+
+Step 2> Run the command
+Add-Migration <MigrationName>
+Update Database.
