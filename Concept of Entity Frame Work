@@ -1,0 +1,10 @@
+////////////////////////What is Entity Framework
+"Entity Framework (EF) is an open-source Object-Relational Mapper (ORM) for .NET applications. 
+It allows developers to interact with databases using .NET objects instead of writing raw SQL queries.
+EF simplifies data access by providing a bridge between the database and the application’s domain model."
+
+//////////////////////// Key Features of Entity Framework
+Code-First Approach: Define your database structure using C# or VB.NET classes, and EF will generate the database schema.
+Database-First Approach: Reverse-engineer an existing database into a .NET model.
+Query Support: Use LINQ (Language Integrated Query) for database operations.
+Change Tracking: Automatically tracks changes made to objects and updates the database accordingly.
